@@ -1,4 +1,4 @@
-# TestWebSocket
+# TestWebHook
 
 This project demonstrates a simple WebHook endpoint using PHP.
 
@@ -8,7 +8,7 @@ This project demonstrates a simple WebHook endpoint using PHP.
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Darkus1t0262/TestWebSocket>
+   git clone <https://github.com/Darkus1t0262/TestWebHook>
    cd webhook_api
 2. Start a PHP server:
    ```bash
